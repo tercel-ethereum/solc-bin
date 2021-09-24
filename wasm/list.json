@@ -878,6 +878,7 @@
     }
   ],
   "releases": {
+    "0.9.1": "soljson-v0.9.1-develop.2021.9.18+commit.f3a54147.js",
     "0.8.7": "soljson-v0.8.7+commit.e28d00a7.js",
     "0.8.6": "soljson-v0.8.6+commit.11564f7e.js",
     "0.8.5": "soljson-v0.8.5+commit.a4f2e591.js",
